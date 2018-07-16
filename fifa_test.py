@@ -5,15 +5,6 @@ Created on Tue Jul 10 00:33:43 2018
 @author: HP
 """
 from __future__ import unicode_literals
-c_key='eBKjaejOBnHdtUAocEjArq02K'
-c_secret='pmY0ImvkEPyrUE2seoGN9ybkMuXL2avhtxAfdHLA52TZTmOn8u'
-a_key='308590701-4ZDhWE1IfZcAlFA7Rfp4nU78ZzwsQ10PqQXkFkAM'
-a_secret='0u6RsRSadAEN9oqt8pjo9GkVTbCDL7kYXb5qVdIx9AVIm'
-import twitter
-api = twitter.Api(consumer_key='eBKjaejOBnHdtUAocEjArq02K',
-                  consumer_secret='pmY0ImvkEPyrUE2seoGN9ybkMuXL2avhtxAfdHLA52TZTmOn8u',
-                  access_token_key='308590701-4ZDhWE1IfZcAlFA7Rfp4nU78ZzwsQ10PqQXkFkAM',
-                  access_token_secret='0u6RsRSadAEN9oqt8pjo9GkVTbCDL7kYXb5qVdIx9AVIm')
 
 #users = api.GetFriends()
 
